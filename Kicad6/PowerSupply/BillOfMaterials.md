@@ -12,3 +12,4 @@
 |01 | LED |3mm|||
 |01 | Diodo retificador 1N4001|50V 1A||Filtro de proteção tensão de entrada|
 |01 | CI LM7805 |||Regulador de tensão|
+|03 | Pin header vertical |2 || Montagem das tensões de saída|
