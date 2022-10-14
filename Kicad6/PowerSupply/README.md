@@ -2,9 +2,9 @@
 
 Fonte de alimentação para projetos de microcontroladores. A entrada de corrente se dá via adaptador de 9 a 12 V
 
-Caracteristicas 
+**Caracteristicas**
 
-Vin: 9V-12V
+Vin: 9V-12V  
 Vout: +5V
 
 Tensões disponíveis:
