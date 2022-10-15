@@ -38,7 +38,7 @@ Verso
 
 Frente 
 
-<img src="./assets/images/Board Top.png" width="800">
+<img src="./assets/images/Board top.png" width="800">
 
 Verso 
 
