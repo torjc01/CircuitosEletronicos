@@ -1,3 +1,5 @@
 fp-info-cache
 *.kicad_prl
 *-backups/
+_autosave-Arduminimum.kicad_sch
+*#auto_saved_files#
