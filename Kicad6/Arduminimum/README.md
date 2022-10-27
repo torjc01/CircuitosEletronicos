@@ -1,11 +1,27 @@
 # Arduminimum - implementacao minima de Arduino sobre PCB
 
-Fonte de alimentação para projetos de microcontroladores. A entrada de corrente se dá via adaptador de 9 a 12 V
+Implementaçao minima de um microcontrolador baseado em Arduino Uno. 
 
-**Caracteristicas**
 
-Vin: 9V-12V  
-Vout: +5V
+
+
+**Especificaçoes técnicas**
+
+|Componente|Valores|
+|-----------------|-------------------------| 
+|Microcontroladora: |Atmel ATMega328P 8 bit AVR family controller|
+|Voltagem de operaçao:| 5V| 
+|Vin recomendada: |7V-12V|
+|Limites de voltagem de entrada:| 6V-20V|
+|Pins analogos: |6 (A0 - A5)|
+|Pins digitais: |14 |
+|Corrente DC nos pins de IO:| 40mA|
+|Corrente DC no pin 3.3V:| 50mA|
+|Flash memory:| 32Kb|
+|SRAM: |2Kb|
+|EEPROM: |1Kb|
+|Frequência (Clock speed):| 16MHz|  
+|Vout:| +5V|
 
 Tensões disponíveis:
 - +9V em AREF
@@ -67,7 +83,14 @@ Atmel ATMega328p
 
 https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
-
 LM7805 
  
 https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm340
+
+NE555 
+
+https://www.ti.com/lit/ds/symlink/ne555.pdf
+
+PN532 
+
+https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
