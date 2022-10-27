@@ -2,6 +2,12 @@
 
 ## Resistores 
 
+**Valores tipicos de resistores** 
+
+E6 values (20% tolerancia)  
+1.0, 1.5, 2.2, 3.3, 4.7, 6.8
+
+
 **Valores ideais de resistores para LED em série**
 
 |Vin|Red/Yellow|Blue/Green|
