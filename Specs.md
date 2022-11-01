@@ -1,5 +1,23 @@
 # Especificacoes 
 
+## Unidades de medida 
+
+|Grandeza |Simbolo|Uni|Simbolo da Unidade|
+|---------|-------|---|------------------|
+|Voltagem |V|volt|V|
+|Corrente|I|ampère|A|
+|Carga|Q|Coulomb|C|
+|Resistência|R|ohm|Ω|
+|Capacitância|c|Farad|F|
+|Inductância|L|henry|H|
+|Reactância|X|ohm|Ω|
+|Impedância|Z|ohm|Ω|
+|Força|P|watt|W|
+|Energia|E|Joule|J|
+|Tempo|t|segundo|s|
+|Frequência|f|hertz|hz|
+
+
 ## Resistores 
 
 **Valores tipicos de resistores** 
@@ -16,6 +34,9 @@ E6 values (20% tolerancia)
 |9V|>=390Ω|>=330Ω|
 |12V|>=560Ω|>=470Ω|
 
+**Refs**
+
+https://en.wikipedia.org/wiki/E_series_of_preferred_numbers#E6
 
 ## Diodos 
 
