@@ -36,6 +36,15 @@
 |1N5819|1A|40V|
 |1N5822|3A|40V|
 
+
+*Ideal LED Series resistor values*
+
+|Vin|Red/Yellow|Blue/Green|
+|---|----------|----------|
+|5V-6V|>= 180Ω| >=100Ω|
+|9V|>=390Ω|>=330Ω|
+|12V|>=560Ω|>=470Ω|
+
 ## Capacitors
 
 |Label|Value|

@@ -5,12 +5,13 @@ Fonte de alimentação para projetos de microcontroladores. A entrada de corrent
 **Caracteristicas**
 
 Vin: 9V-12V  
-Vout: +5V
+Vout: +9V, +5V, +3.3V
+
 
 Tensões disponíveis:
 - +9V em AREF
 - +5V diretamente de Vout 
-- +3.3V via un divisor de tensão aplicado à linha de +5V
+- +3.3V regulado em Vout
 
 Conector de entrada: barrel jack 2.5mm, polaridade positiva ao centro
 
@@ -62,6 +63,10 @@ Verso
 
 ### Datasheets
 
- LM7805 
+LM7805 - Voltage regulator 5V
  
- https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm340
+https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm340
+
+LM1086 - Voltage regulator 3.3V 
+
+https://www.ti.com/lit/ds/symlink/lm1086.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1667479620648&ref_url=https%253A%252F%252Fwww.mouser.fr%252F
