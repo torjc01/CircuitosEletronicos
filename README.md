@@ -22,12 +22,3 @@ Implementação de um bloco de alimentação que seja capaz de receber um range 
 Prova de conceito da utilização de um CI 555 como switch para desligar um circuito, para auxiliar um colega do `Atelier La Patente` em um de seus projetos. 
 
 
-# Info 
-
-**Ideal LED Series resistor values**
-
-|Vin|Red/Yellow|Blue/Green|
-|---|----------|----------|
-|5V-6V|>= 180Ω| >=100Ω|
-|9V|>=390Ω|>=330Ω|
-|12V|>=560Ω|>=470Ω|
