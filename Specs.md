@@ -1,5 +1,43 @@
 # Especificacoes 
 
+## Unidades de medida 
+
+|Grandeza |Simbolo|Uni|Simbolo da Unidade|
+|---------|-------|---|------------------|
+|Voltagem |V|volt|V|
+|Corrente|I|ampère|A|
+|Carga|Q|Coulomb|C|
+|Resistência|R|ohm|Ω|
+|Capacitância|c|Farad|F|
+|Inductância|L|henry|H|
+|Reactância|X|ohm|Ω|
+|Impedância|Z|ohm|Ω|
+|Força|P|watt|W|
+|Energia|E|Joule|J|
+|Tempo|t|segundo|s|
+|Frequência|f|hertz|hz|
+
+
+## Resistores 
+
+**Valores tipicos de resistores** 
+
+E6 values (20% tolerancia)  
+1.0, 1.5, 2.2, 3.3, 4.7, 6.8
+
+
+**Valores ideais de resistores para LED em série**
+
+|Vin|Red/Yellow|Blue/Green|
+|---|----------|----------|
+|5V-6V|>= 180Ω| >=100Ω|
+|9V|>=390Ω|>=330Ω|
+|12V|>=560Ω|>=470Ω|
+
+**Refs**
+
+https://en.wikipedia.org/wiki/E_series_of_preferred_numbers#E6
+
 ## Diodos 
 
 *Rectifier diodes*

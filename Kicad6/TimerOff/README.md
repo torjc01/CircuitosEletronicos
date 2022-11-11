@@ -29,6 +29,20 @@ T = 1.1 * R * C
 
 <img src="./assets/images/schema.png"  width="1200" />
 
+## Bill of Mateirals
+
+- 555 Timer IC
+- Momentary Push Button Switch
+- LED / ou outro dispositivo de saida
+- 470uF Capacitor
+- Resistors: 68K, 10K, 220R
+- Breadboard
+- Alguns jumpers para Breadboard 
+- (5-12)V Power Supply
+- Potenciometro (Opcional)
+- Modulo Relê (Opcional)
+
+
 ## Referências 
 
 NE555 https://www.ti.com/lit/ds/symlink/ne555.pdf
