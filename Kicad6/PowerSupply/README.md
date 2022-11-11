@@ -4,8 +4,8 @@ Fonte de alimentação para projetos de microcontroladores. A entrada de corrent
 
 **Caracteristicas**
 
-Vin: 9V-12V  
-Vout: +5V
+Vin :  7V-12V  
+Vout: +3.3V, +5V, +9V
 
 Tensões disponíveis:
 - +9V em AREF
@@ -18,6 +18,7 @@ Switch on/off
 
 Proteção contra sobrecarga e corrente reversa 
 
+Ground plane e power plane nas duas faces da placa. 
 ## Schematics 
 
 <img src="./assets/images/Schematics.png" width="1000">
