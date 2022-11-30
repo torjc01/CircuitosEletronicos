@@ -1,4 +1,4 @@
-# CircuitosEletronicos
+# Circuitos Eletrônicos
 Repositório de projetos de circuitos eletrônicos e de design blocks, nos CADS Eagle e Kicad6.
 <div align="center">
     <img src="assets/MagneticCore.png" height="700" />
