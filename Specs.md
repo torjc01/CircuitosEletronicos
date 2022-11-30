@@ -1,26 +1,93 @@
 # Especificacoes 
 
-## Unidades de medida 
+## Sistema Internacional de Medidas - SI
+### Unidades de medida 
 
-|Grandeza |Simbolo|Uni|Simbolo da Unidade|
-|---------|-------|---|------------------|
-|Voltagem |V|volt|V|
-|Corrente|I|ampère|A|
-|Carga|Q|Coulomb|C|
-|Resistência|R|ohm|Ω|
-|Capacitância|c|Farad|F|
-|Inductância|L|henry|H|
-|Reactância|X|ohm|Ω|
-|Impedância|Z|ohm|Ω|
-|Força|P|watt|W|
-|Energia|E|Joule|J|
-|Tempo|t|segundo|s|
-|Frequência|f|hertz|hz|
+| Grandeza                  | Simbolo | Unidade    | Simbolo da Unidade |
+|---------------------------|---------|------------|--------------------|
+| Voltagem                  | V       | volt       | V                  |
+| Corrente                  | I       | ampère     | A                  |
+| Carga                     | Q       | Coulomb    | C                  |
+| Resistência               | R       | ohm        | Ω                  |
+| Capacitância              | c       | Farad      | F                  |
+| Inductância               | L       | henry      | H                  |
+| Reactância                | X       | ohm        | Ω                  |
+| Impedância                | Z       | ohm        | Ω                  |
+| Força                     | P       | watt       | W                  |
+| Energia                   | E       | Joule      | J                  |
+| Tempo                     | t       | segundo    | s                  |
+| Frequência                | f       | hertz      | hz                 |
+| Quantidade de matéria     |         | Mol        | mol                |
+| Intensidade luminosa      |         | Candela    | cd                 |
+| Comprimento               |         | Metro      | m                  |
+| Massa                     |         | Quilograma | kg                 |
+| Temperatura termodinâmica |         | Kelvin     | K                  |
+| Ângulo plano              |         | radiano    | rad                |
+| Força                     |         | newton     | N                  |
+| Pressão, tensão           |         | pascal     | Pa                 |
+| Energia, trabalho         |         | joule      | J                  | 
+| Potência                  |         | watt       | W                  |
+| Carga elétrica            |         | coulomb    | C                  |
+
+### Prefixos dos SI 
+
+| Prefixo  | Símbolo | Potência b10  | Equivalente decimal                         |
+|----------|---------|---------------|---------------------------------------------|
+| quetta   | Q       | 10^30         | 1.000.000.000.000.000.000.000.000.000.000   |
+| ronna    | R       | 10^27         | 1.000.000.000.000.000.000.000.000.000       |
+| yotta    | Y       | 10^24         | 1.000.000.000.000.000.000.000.000           |
+| zetta    | Z       | 10^21         | 1.000.000.000.000.000.000.000               |
+| exa      | E       | 10^18         | 1.000.000.000.000.000.000                   |
+| peta     | P       | 10^15         | 1.000.000.000.000.000                       |
+| tera     | T       | 10^12         | 1.000.000.000.000                           |
+| giga     | G       | 10^9          | 1.000.000.000                               |
+| mega     | M       | 10^6          | 1.000.000                                   |
+| quilo    | k       | 10^3          | 1.000                                       |
+| hecto    | h       | 10^2          | 100                                         |
+| deca     | da      | 10^1          | 10                                          |
+| nenhum   |         | 10^0          | 1                                           |
+| deci     | d       | 10^-1         | 0,1                                         |
+| centi    | c       | 10^-2         | 0,01                                        |
+| mili     | m       | 10^-3         | 0,001                                       |
+| micro    | u       | 10^-6         | 0,000001                                    |
+| nano     | n       | 10^-9         | 0,000000001                                 |
+| pico     | p       | 10^-12        | 0,000000000001                              |
+| femto    | f       | 10^-15        | 0,000000000000001                           |
+| atto     | a       | 10^-18        | 0,000000000000000001                        |
+| zepto    | z       | 10^-21        | 0,000000000000000000001                     |
+| yocto    | y       | 10^-24        | 0,000000000000000000000001                  |
+| ronto    | r       | 10^-27        | 0,000000000000000000000000001               |
+| quecto   | q       | 10^-30        | 0,000000000000000000000000000000001         | 
+
+A Conferência Geral de Pesos e medidas (CGPM), em sua 27a reunião, definiu os novos prefixos que serão usados no Sistema Internacional de Medidas para expressar enormes quantidades, além de números incrivelmente minúsculos. 
+
+Por exemplo, o planeta Terra tem o peso aproximado em gramas de `5.974.000.000.000.000.000.000.000.000.000`, ou `5,974x10^27`. Isso é o equivalente a `5,974x10^24` quilogramas, ou simplesmente `5,974` ronnagramas. 
+
+Se estivessemos medindo um planeta com o peso de `8x10^30`, poderíamos dizer que o planeta pesa `8` quettagramas. 
+
+Se estivessemos medido algo tão minúsculo quanto `3x10^-27` ou `6x10^-30`, como as microondas de radiação presentes no universo como um remanescente do BigBang, podemos dizer que elas têm 3 rontômetros ou 6 quectômetros. 
+
+As novas medidas foras as primeiras adicionadas após a conferência de 1991 que adicionou zetta, yotta, zepto e yocto. 
 
 
 ## Resistores 
 
 <img src="assets/Resistores.png" />
+
+### Tabela de código de cores 
+
+|Cor da faixa| Numeral (1a e 2a faixas) | Multiplicador (3a faixa) |
+|------------|--------------------------|--------------------------|
+| Preto      | 0                        | 1                        |
+| Marrom     | 1                        | 10                       |
+| Vermelho   | 2                        | 100                      |
+| Laranja    | 3                        | 1000 (1k)                |
+| Amarelo    | 4                        | 10^4 (10k)               |
+| Verde      | 5                        | 10^5 (100k)              |
+| Azul       | 6                        | 10^6 (1M)                |
+| Violeta    | 7                        | 10^7 (10M)               |
+| Cinza      | 8                        | 10^8 (100M)              |
+| Branco     | 9                        | 10^9 (1000M ou 1G)       |
 
 **Valores tipicos de resistores** 
 
