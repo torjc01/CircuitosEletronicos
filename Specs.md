@@ -20,6 +20,8 @@
 
 ## Resistores 
 
+<img src="assets/Resistores.png" />
+
 **Valores tipicos de resistores** 
 
 E6 values (20% tolerancia)  
@@ -39,6 +41,8 @@ E6 values (20% tolerancia)
 https://en.wikipedia.org/wiki/E_series_of_preferred_numbers#E6
 
 ## Diodos 
+
+<img src="assets/Diodos.png" />
 
 *Rectifier diodes*
 
@@ -74,7 +78,9 @@ https://en.wikipedia.org/wiki/E_series_of_preferred_numbers#E6
 |1N5819|1A|40V|
 |1N5822|3A|40V|
 
-## Capacitors
+## Capacitores
+
+<img src="assets/Capacitores.jpg" />
 
 |Label|Value|
 |-----|-----|
@@ -111,3 +117,46 @@ https://en.wikipedia.org/wiki/E_series_of_preferred_numbers#E6
 |300|30pF|
 |470|47pF|
 |680|68pF|
+
+
+## Tabelas de Capacitores 
+
+### Equivalências 
+
+|microfarads (uF)| |nanoFarads (nF)| |picoFarads (pF)|
+|----------------|-|---------------|-|---------------|
+|0,000001 uF     |=|0,001        nF|=|1            pF|
+|0,00001  uF     |=|0,01         nF|=|10           pF|
+|0,0001   uF     |=|0,1          nF|=|100          pF|
+|0,001    uF     |=|1            nF|=|1.000        pF|
+|0,01     uF     |=|10           nF|=|10.000       pF|
+|0,1      uF     |=|100          nF|=|100.000      pF|
+|1        uF     |=|1.000        nF|=|1.000.000    pF|
+|10       uF     |=|10.000       nF|=|10.000.000   pF|
+|100      uF     |=|100.000      nF|=|100.000.000  pF|
+
+### Códigos de valor
+
+|Codigo|Interpretacao|=| pF         | nF     | uF       |
+|------|-------------|-|------------|--------|----------|
+|102   |10 + 00      |=| 1.000   pF |1   nF | 0,001 uF  |
+|103   |10 + 000     |=| 10.000  pF |10  nF |0,01    uF |
+|104   |10 + 0000    |=| 100.000 pF |100 nF |0,1     uF |
+|222   |22 + 00      |=| 2.200   pf |2,2 nF |0,0022  uF |
+|223   |22 + 000     |=| 22.000  pF |22  nF |0,022   uF |
+|224   |22 + 0000    |=| 220.000 pF |220 nF |0,22    uF |
+|332   |33 + 00      |=| 3.300   pF |3,3 nF |0,0033  uF |
+|333   |33 + 000     |=|33.000   pF |33  nF |0,033   uF |
+|334   |33 + 0000    |=|330.000  pF |330 nF |0,33    uF |
+|472   |47 + 00      |=|4.700    pF |4,7 nF |0,0047  uF |
+|473   |47 + 000     |=|47.000   pF |47  nF |0,047   uF |
+|502   |50 + 00      |=|5.000    pF |5   nF |0,0005  uF |
+|503   |50 + 000     |=|50.000   pF |50  nF |0,005   uF |
+|504   |50 + 0000    |=|500.000  pF |500 nF |0,05    uF |
+
+
+## Semicondutores 
+
+### Packages 
+
+<img src="assets/Semicondutores.jpg" />
