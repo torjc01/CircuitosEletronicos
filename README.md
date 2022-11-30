@@ -1,5 +1,5 @@
 # CircuitosEletronicos
-Repositorio de projetos de circuitos eletronicos e de design blocks, nos CADS Eagle e Kicad6.
+Repositório de projetos de circuitos eletrônicos e de design blocks, nos CADS Eagle e Kicad6.
 <div align="center">
     <img src="assets/MagneticCore.png" height="700" />
 </div>
@@ -12,7 +12,7 @@ Implementação mínima do Arduino, que possa ser reutilizada em projetos de nec
 
 ## Dawg-B-Gone
 
-Uma implementação do famoso circuito "espanta-cachorros". Este circuito na prática é um circuito que gera ultrasons, além do espectro audível por humanos, mas que para certos animais, em certas faixas de frequências, é repulsivo. Morcegos, ratos; moscas, mosquitos, e pernilongos; gambás, esquilos, enfim, toda sorte de de animal indesejável tem potencialmente uma faixa de frequência que funcionará como repelente. 
+Uma implementação do famoso circuito "espanta-cachorros". Este circuito na prática é um circuito gerador de ultrasons, além do espectro audível por humanos. Mas que para certos animais, em certas faixas de frequências, é repulsivo. Morcegos, ratos; moscas, mosquitos, e pernilongos; gambás, esquilos, enfim, toda sorte de de animal indesejável tem potencialmente uma faixa de frequência que funcionará como repelente. 
 
 PS: A "denominação" do circuito é puramente tradicional, não queremos espantar os nossos amigos cachorros, portanto ficaremos fora da faixa de frequência a que eles são sensíveis. :laughing:
 
