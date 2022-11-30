@@ -57,6 +57,21 @@ Verso
 <img src="./assets/images/3DViewBack.png" width="800">
 
 
+## Plano de soldagem 
+
+* Etapas a serem seguidas
+    - Resistores
+        - Orientar a banda de tolerância para a direita ou para o alto, conforme a posição do resistor
+    - Diodo 
+        - Observar a polaridade 
+    - Switch 
+    - Jumpers 
+    - Capacitores 
+        - Observar as polaridades 
+    - CI 7805
+        - Observar orientação dos pinos 
+    - Jack 
+        - Quantidade de solda suficiente para os pinos 
 
 
 ## Referências
